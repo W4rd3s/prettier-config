@@ -1,11 +1,15 @@
 {
   "name": "@wardes/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal Prettier config",
   "repository": "W4rd3s/prettier-config",
   "main": ".prettierrc.js",
   "scripts": {},
-  "keywords": ["prettier", "config", "prettier-config"],
+  "keywords": [
+    "prettier",
+    "config",
+    "prettier-config"
+  ],
   "author": "Wardes",
   "license": "MIT",
   "peerDependencies": {
