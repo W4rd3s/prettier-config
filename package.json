@@ -1,6 +1,6 @@
 {
   "name": "@wardes/prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Personal Prettier config",
   "repository": "W4rd3s/prettier-config",
   "main": ".prettierrc.js",
