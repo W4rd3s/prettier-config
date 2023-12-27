@@ -1,15 +1,21 @@
 module.exports = {
-  printWidth: 80,
-  tabWidth: 2,
-  useTabs: false,
-  semi: true,
-  singleQuote: true,
-  quoteProps: 'as-needed',
-  jsxSingleQuote: false,
-  trailingComma: 'es5',
-  bracketSpacing: true,
-  bracketSameLine: false,
-  arrowParens: 'always',
-  vueIndentScriptAndStyle: true,
-  endOfLine: 'lf',
+  experimentalTernaries: true, // default false
+  printWidth: 80, // default
+  tabWidth: 2, // default
+  useTabs: false, // default
+  semi: true, // default
+  singleQuote: true, // default false
+  quoteProps: 'as-needed', // default
+  jsxSingleQuote: false, // default
+  trailingComma: 'all', // default
+  bracketSpacing: true, // default
+  bracketSameLine: false, // default
+  // jsxBracketSameLine: false, /!\ deprecated /!\
+  arrowParens: 'always', // default
+  proseWrap: 'preserve', // default
+  htmlWhitespaceSensitivity: 'css', // default
+  vueIndentScriptAndStyle: true, // default false
+  endOfLine: 'lf', // default
+  embeddedLanguageFormatting: 'auto', // default
+  singleAttributePerLine: true, // default false
 };
