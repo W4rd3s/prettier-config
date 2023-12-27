@@ -1,6 +1,6 @@
 module.exports = {
   experimentalTernaries: true, // default false
-  printWidth: 80, // default
+  printWidth: 100, // default 80
   tabWidth: 2, // default
   useTabs: false, // default
   semi: true, // default
